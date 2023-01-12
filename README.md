@@ -1,10 +1,10 @@
 # EDA-on-JOSAA-dataset
-Exploratory data analysis on JOSAA Engineering Schools Seat Allocation (JEE) dataset for Year 2022 using Python on Jupyter notebook . libraries used - Pandas , Numpy , Matplotlib , Seaborn.
+Exploratory data analysis on JOSAA Engineering Schools Seat Allocation (JEE) dataset for **Year 2022** using **Python on Jupyter notebook . libraries used - Pandas , Numpy , Matplotlib , Seaborn.**
 
 1.The dataset is downloaded from https://www.kaggle.com/datasets/divyanshukunwar/josaa-engineering-schools-seat-allocation-jee
-.   it is also available in the respository
+.   it is also available in the respository as **filename 2022.csv**
 
-2.This dataset contains data of JOSAA seat allocation for year 2022 . Admission to prestigious engineering college in india is done on the basis of marks in jee and this dataset can help summarise various statistics about :
+2.This dataset contains data of JOSAA seat allocation for **year 2022** . Admission to prestigious engineering college in india is done on the basis of marks in jee and this dataset can help summarise various statistics about :
 
 i) seats distribution across all Institues.
 
