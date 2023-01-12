@@ -28,4 +28,4 @@ x) seats distribution across all NIT's and diiferent grouping between the follow
 
 xi) seats distribution across all NIT's based on Computer Science Program and diiferent grouping between the following parameters : Academic program , Quota, Seat Type and Gender.
 
-xii) seats distribution across National Institute of Technology Delhi both separately based on following parameters : Academic program , Quota, Seat Type and Gender and diiferent grouping (or combinations) between the following parameters : Academic program , Quota, Seat Type and Gender.
+xii) seats distribution across National Institute of Technology Delhi(my college) both separately based on following parameters : Academic program , Quota, Seat Type and Gender and diiferent grouping (or combinations) between the following parameters : Academic program , Quota, Seat Type and Gender.
